@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SaeedAhmed
+- 👋 Hi, I’m SaeedAhmed
 - 👀 I’m interested in Web development and Web designing
 - 🌱 I’m currently learning Full stack Development
 - 💞️ I’m looking to collaborate on 
